@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\bibek\OneDrive\Desktop\Uno_Courses\SofwareEng\assignments\TechEx\t1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+127756494.index
+1681162268.index
+3588405918.index
+538120132.index
+2226216188.index
+2748464414.index

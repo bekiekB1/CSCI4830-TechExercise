@@ -1,0 +1,24 @@
+INDEX VERSION 1.131+C:\Users\bibek\OneDrive\Desktop\Uno_Courses\SofwareEng\assignments\TechEx\t1\.metadata\.plugins\org.eclipse.jdt.core
+3883950653.index
+837406642.index
+114150693.index
+538120132.index
+1148478000.index
+2502073190.index
+1075043277.index
+3126450843.index
+1504789930.index
+769203166.index
+2715782986.index
+3287768149.index
+3911549966.index
+634023753.index
+544063783.index
+2499856873.index
+3333385705.index
+3034500537.index
+1620024358.index
+2103129847.index
+1093426364.index
+1907634774.index
+346657290.index
